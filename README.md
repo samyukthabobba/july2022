@@ -1,2 +1,3 @@
-# july2022
-This repo is for july 2022 batch
+Author
+Name: Samyuktha bobba
+Email:chsamyuktha777@gmail.com
